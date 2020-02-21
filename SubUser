@@ -1,3 +1,0 @@
-# SubUser
-In the SubUser section of the guide, you will learn how to create and use internal users to manage the customers. Every user will be assigned with some roles (super admin, password admin, user admin etc.) and permissions (read, write, view, edit etc.). These roles and persmissions are centrally managed in the admin panel. The users will have separate logins as per their roles and can access only the allocated modules.
-
